@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/posts/java/</loc>
+    <loc>https://xu1792935253.github.io/posts/java/</loc>
   </url><url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/archives/</loc>
+    <loc>https://xu1792935253.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://xu1792935253.github.io/hugo-PaperMod/fr/archives/"
+                href="https://xu1792935253.github.io/fr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xu1792935253.github.io/hugo-PaperMod/archives/"
+                href="https://xu1792935253.github.io/archives/"
                 />
   </url><url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/categories/</loc>
+    <loc>https://xu1792935253.github.io/categories/</loc>
   </url><url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/</loc>
+    <loc>https://xu1792935253.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://xu1792935253.github.io/hugo-PaperMod/fr/"
+                href="https://xu1792935253.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://xu1792935253.github.io/hugo-PaperMod/fa/"
+                href="https://xu1792935253.github.io/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xu1792935253.github.io/hugo-PaperMod/"
+                href="https://xu1792935253.github.io/"
                 />
   </url><url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/posts/</loc>
+    <loc>https://xu1792935253.github.io/posts/</loc>
   </url><url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/search/</loc>
+    <loc>https://xu1792935253.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://xu1792935253.github.io/hugo-PaperMod/fr/search/"
+                href="https://xu1792935253.github.io/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xu1792935253.github.io/hugo-PaperMod/search/"
+                href="https://xu1792935253.github.io/search/"
                 />
   </url><url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/series/</loc>
+    <loc>https://xu1792935253.github.io/series/</loc>
   </url><url>
-    <loc>https://xu1792935253.github.io/hugo-PaperMod/tags/</loc>
+    <loc>https://xu1792935253.github.io/tags/</loc>
   </url>
 </urlset>

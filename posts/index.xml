@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on PaperMod</title>
-    <link>https://xu1792935253.github.io/hugo-PaperMod/posts/</link>
+    <link>https://xu1792935253.github.io/posts/</link>
     <description>Recent content in Posts on PaperMod</description>
     <image>
-      <url>https://xu1792935253.github.io/hugo-PaperMod/papermod-cover.png</url>
-      <link>https://xu1792935253.github.io/hugo-PaperMod/papermod-cover.png</link>
+      <url>https://xu1792935253.github.io/papermod-cover.png</url>
+      <link>https://xu1792935253.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://xu1792935253.github.io/hugo-PaperMod/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://xu1792935253.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://xu1792935253.github.io/hugo-PaperMod/posts/java/</link>
+      <link>https://xu1792935253.github.io/posts/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xu1792935253.github.io/hugo-PaperMod/posts/java/</guid>
+      <guid>https://xu1792935253.github.io/posts/java/</guid>
       <description>Spring面试题 1.什么是Spring框架？ 我们⼀般说 Spring 框架指的都是 Spring Framework，它是很多模块的集合，使⽤这些模块可以很⽅便地协助我们进⾏开发。这些模块是：核⼼容器、数据访问/集成,、 Web、 AOP（⾯向切⾯编程）、⼯具、消息和测试模块。⽐如： Core Container 中的 Core 组件是Spring 所有组件的核⼼， Beans 组件和 Context 组件是实现IOC和依赖注⼊的基础， AOP组件⽤来实现⾯向切⾯编程。 Spring 官⽹列出的 Spring 的 6 个特征: 核⼼技术 ：依赖注⼊(DI)， AOP，事件(events)，资源， i18n，验证，数据绑定，类型转换， SpEL。 测试 ：模拟对象， TestContext框架， Spring MVC 测试， WebTestClient。 数据访问 ：事务， DAO⽀持， JDBC， ORM，编组XML。 Web⽀持 : Spring MVC和Spring WebFlux Web框架。 集成 ：远程处理， JMS， JCA， JMX，电⼦邮件，任务，调度，缓存。 语⾔ ： Kotlin， Groovy，动态语⾔ 列举一些重要的Spring模块 Spring Core： 基础,可以说 Spring 其他所有的功能都需要依赖于该类库。主要提供 IoC 依赖注⼊功能。
 Spring Aspects ： 该模块为与AspectJ的集成提供⽀持。</description>
     </item>
