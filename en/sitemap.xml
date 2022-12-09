@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/java/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/posts/java/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/archives/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/archives/"
+                href="https://xu1792935253.github.io/hugo-PaperMod/fr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/archives/"
+                href="https://xu1792935253.github.io/hugo-PaperMod/archives/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/categories/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/"
+                href="https://xu1792935253.github.io/hugo-PaperMod/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
+                href="https://xu1792935253.github.io/hugo-PaperMod/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/"
+                href="https://xu1792935253.github.io/hugo-PaperMod/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/posts/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/search/"
+                href="https://xu1792935253.github.io/hugo-PaperMod/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/search/"
+                href="https://xu1792935253.github.io/hugo-PaperMod/search/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/series/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
+    <loc>https://xu1792935253.github.io/hugo-PaperMod/tags/</loc>
   </url>
 </urlset>
